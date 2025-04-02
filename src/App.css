@@ -1,0 +1,22 @@
+.table_head{
+  background-color: darkblue;
+  color: white;
+}
+
+.table_body{
+  background-color:lightgray ;
+}
+.main_table{
+  border: 1px solid black;
+  position: relative;
+left:250px;
+background-color:lightslategray
+}
+
+.images{
+  width: 80px;
+  height: 80px;
+}
+.App{
+  background-color: aliceblue;
+}
