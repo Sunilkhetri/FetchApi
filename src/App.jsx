@@ -21,8 +21,8 @@
             <th>ID</th>
             <th>Title</th>
             <th>Price</th>
-            <th>category</th>
-            <th>image</th>
+            <th>Category</th>
+            <th>Image</th>
             <th>Rating</th>
             
           </tr>
